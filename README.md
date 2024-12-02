@@ -23,7 +23,7 @@ Este repositório contém um código em linguagem C desenvolvido e utilizado com
 2. Clone este repositório ou copie o código diretamente.
 3. Compile o código:
    ```bash
-   gcc -o calculo_desvio calculo_desvio_padrao.c
+   gcc -o calculo_desvio codigo-calculo.c -lm
    ```
 4. Execute o programa:
    ```bash
